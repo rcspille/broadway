@@ -30,6 +30,21 @@ ul#nav li{
   text-align: center;
 }
 
+
+/*###################################
+########### FOOTER ##################
+###################################*/
+
+#footer{
+  color: white;
+  margin-top: 20px;
+}
+
+#footer a{
+  color: white;
+  font-size: 18px;
+}
+
 /*###################################
 ###### FONT STYLES ##################
 ###################################*/
@@ -63,6 +78,10 @@ p1{
   display: block;
 }
 
+.small-text{
+  font-size: 11px;
+}
+
 /*####################################
 ########## FOREGROUND COLORS #########
 ####################################*/
@@ -81,4 +100,8 @@ ul#nav li a{
 
 .building-bg{
   background-image:url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+
+.dimgray-bg{
+  background-color: dimgray;
 }
