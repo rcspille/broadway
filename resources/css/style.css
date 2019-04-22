@@ -15,6 +15,14 @@ ul#nav li{
 }
 
 /*###################################
+######### PROCESS ###################
+###################################*/
+
+#process{
+  text-align: center;
+}
+
+/*###################################
 ###### FONT STYLES ##################
 ###################################*/
 
@@ -27,6 +35,23 @@ h1{
 ul#nav li{
   font-family: Helvetica;
   font-size: 18px;
+}
+
+h2{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p1{
+  font-family: Helvetica;
+  font-size: 14px;
 }
 
 /*####################################
