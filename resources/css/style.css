@@ -9,3 +9,42 @@
 ul#nav{
   list-style: none;
 }
+
+ul#nav li{
+  margin-top: 20px;
+}
+
+/*###################################
+###### FONT STYLES ##################
+###################################*/
+
+h1{
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+}
+
+ul#nav li{
+  font-family: Helvetica;
+  font-size: 18px;
+}
+
+/*####################################
+########## FOREGROUND COLORS #########
+####################################*/
+
+.white-text{
+  color: white;
+}
+
+ul#nav li a{
+  color: white;
+}
+
+/*#####################################
+######### BACKGROUND STYLES ###########
+#####################################*/
+
+.building-bg{
+  background-image:url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
